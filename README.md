@@ -1,4 +1,4 @@
-# 🔒 Simple Malware Created By ME :)
+# 🔒 Malware
 
 ![Screenshot](1.png)
 
