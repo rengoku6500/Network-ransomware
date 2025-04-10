@@ -1,4 +1,4 @@
-# 🔒 Network-Ransomware (Wi-Fi Lock Prank)
+# 🔒 Simple Malware Created By ME :)
 
 ![Screenshot](1.png)
 
